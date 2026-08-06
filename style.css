@@ -1,0 +1,54 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #f0f8ff; /* light blue background */
+  padding: 20px;
+}
+
+.menu {
+  background-color: #0044aa; /* dark blue like your logo */
+  padding: 15px;
+}
+.menu a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none; /* removes underline */
+  font-weight: bold;
+}
+
+img {
+  width: 250px;
+  border-radius: 10px;
+  border: 3px solid #0044aa;
+  margin: 20px 0;
+}
+
+.price-list li {
+  background: white;
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 8px;
+  width: 80%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* adds shadow */
+}
+.button {
+  background-color: #0044aa;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+}footer {
+  background-color: #0044aa; /* same blue as your logo */
+  color: white;              /* makes text white */
+  padding: 20px;             /* space inside */
+  margin-top: 40px;          /* space above it */
+  text-align: center;        /* centers the text */
+}.sample {
+  border: 2px solid #0044aa;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 10px;
+  background-color: #f0f8ff;
+}
