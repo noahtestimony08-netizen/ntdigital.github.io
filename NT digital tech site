@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html>
+  <head>
+    <title>My First Page</title>
+   <!--menu-->
+    <h2 id="about">About Me</h2>
+<h2 id="service">My Services</h2>
+
+  <!--PAGE 1:HOME-->
+
+     
+
+        <h1>Hello. I'm NT Digital Site Tech</h1>
+<h2 style="color: #0044aa; font-size: 24px; margin-top: 5px;">NT DIGITAL</h2>
+   <p>I'm 15 years old and I'm learning to build websites from Abuja🇳🇬<p/></p>   
+     <div id="seervices"></div>
+     <h2>About Me</h2>
+<p>Hi! I'm a 15 year old web designer from Abuja 🇳🇬. 
+I help small businesses and gamers get websites that bring them customers. 
+I learned coding because I love building things on the internet. 
+Let's build your website together!</p>
+</div>
+    <div class="sample">
+  <h4>Business Website - $50,000</h4>
+  <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=350&h=220&fit=crop" width="100%">
+  <p>Perfect for: Shops, Restaurants, Barbers in Abuja</p>
+</div>
+
+<div class="sample">
+  <h4>Games Website - $80,000</h4>
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=350&h=220&fit=crop" width="100%">
+  <p>Perfect for: Gamers, Tournaments, Reviews</p>
+</div>
+
+<div class="sample">
+  <h4>Football Website - $60,000</h4>
+  <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=350&h=220&fit=crop" width="100%">
+  <p>Perfect for: Academies, Fan pages, Coaches</p>
+</div>
+  
+    <h2>Things I can do:</h2>
+    <ul class="price-list"></ul> 
+        <li><b>Coding</b>-$50</li>
+      <li><b>football website </b>-$60</li>
+      <li><b>Games website </b>-$80</li>
+     <li><b>business website </b>-$50</li>
+<p>i hope i can be paid such as<b> 100 dollar per web design</b> by NT digital site tech</p>
+    <a href="https://wa.me/234803353729" class="button">Order Now - ₦50,000</a>
+      <a href="https://wa.me/2348033532729" class="button">Chat with me on WhatsApp</a>
+   <footer>
+  <p>© 2026 NT Digital Tech Site. Innovating Your Digital Future</p>
+  <p>Based in Abuja, Nigeria 🇳🇬</p>
+   </footer> 
